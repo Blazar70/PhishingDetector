@@ -41,7 +41,7 @@ nav ul li a:hover {
 }
 
 section {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 20px auto;
     background: rgb(255, 255, 255);
     padding: 20px;
@@ -233,3 +233,19 @@ th {
     }
 }
 
+#project-image {
+    width: 200px;
+    height: auto;
+    cursor: pointer;
+}
+
+.form-box input[type="text"],
+.form-box input[type="email"],
+.form-box input[type="password"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
