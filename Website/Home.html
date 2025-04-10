@@ -2,7 +2,10 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" type="text/css" href="Style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phishing Detector</title>
+    <script type="text/javascript">
+        document.writeln(
+            <title>Phishing Detector</title>);
+    </script>
     <script src="Script.js"></script>
 </head>
 
@@ -31,11 +34,33 @@
         <p>Paste a link or email content below to check if it might be a phishing attempt.</p>
         <input type="text" placeholder="Enter URL or email text here">
         <button>Scan</button>
-        <img id="project-image" src="https://static.vecteezy.com/system/resources/previews/047/848/734/non_2x/scan-button-icon-linear-graphics-sign-vector.jpg" alt="Banner">
-<p id="dynamic-text">Click the image to activate the scanner!</p>
+        <img id="project-image"
+            src="https://static.vecteezy.com/system/resources/previews/047/848/734/non_2x/scan-button-icon-linear-graphics-sign-vector.jpg"
+            alt="Banner">
+        <p id="dynamic-text">Click the image to activate the scanner!</p>
     </section>
 
-    
+    <section>
+        <h2>What is PhishGuard?</h2>
+        <p>Phishguard is a machine learning model invented to solve the ever-evolving issue of phishing.</p>
+        <h2>What are the main benefits of using phishguard?</h2>
+        <ul>
+            <li>It makes detecting potentially dangerous links much easier & quicker.</li>
+            <li>It ensures any website you attempt to access complies with modern cybersecurity standards by checking
+            the legitimacy of the SSL Certificate, Protocal-compliance, & Domain-specific suspicious behavior</li>
+        </ul>
+    </section>
+
+    <div style="text-align: center;">
+        <h3>Click the image to learn more about PhishGuard!</h3>
+        <img src="PhishImage.png" alt="PhishGuard Image" usemap="#aboutmap" width="400">
+    </div>
+
+    <map name="aboutmap">
+        <area shape="rect" coords="0,0,400,300" href="About.html" alt="About PhishGuard">
+    </map>
+
+
     <footer>
         <p>&copy; 2025 PhishGuard | Stay Safe Online</p>
     </footer>

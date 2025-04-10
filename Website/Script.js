@@ -29,16 +29,19 @@ function addScanResult() {
 window.onload = function () {
     const img = document.getElementById("project-image");
     if (img) {
-        img.addEventListener("click", changeBanner);
+        img.onclick = changeBanner; 
     }
 
     const signupForm = document.querySelector("form");
-    if (signupForm && signupForm.querySelector("#confirm-password")) {
-        signupForm.addEventListener("submit", validateSignupForm);
+    const confirmField = document.getElementById("confirm-password");
+
+    if (signupForm && confirmField) {
+        signupForm.onsubmit = validateSignupForm; 
     }
 
     const historyBtn = document.getElementById("add-result-btn");
     if (historyBtn) {
-        historyBtn.addEventListener("click", addScanResult);
+        historyBtn.onclick = addScanResult;
     }
 };
+
