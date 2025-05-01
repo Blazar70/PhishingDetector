@@ -1,122 +1,126 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\contact\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\contact\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\scan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\scan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Migrations\\20250501151855_AddScan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhishGuard\\Migrations\\20250501151855_AddScan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\data\\sitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\data\\sitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\models\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\models\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\wwwroot\\uploads\\qsqnespz.k0s.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\uploads\\qsqnespz.k0s.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\migrations\\20250501134213_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\migrations\\20250501134213_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\contact\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\contact\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\scan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\scan\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\controllers\\scancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\contact\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\data\\sitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\data\\sitedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\models\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\models\\scan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\wwwroot\\uploads\\qsqnespz.k0s.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\uploads\\qsqnespz.k0s.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\migrations\\20250501134213_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\migrations\\20250501134213_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\source\\repos\\phishguard\\phishguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\user\\desktop\\university\\web\\github\\phishingdetector\\phishguard9\\phishguard\\migrations\\20250501151855_addscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\migrations\\20250501151855_addscan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,131 +130,138 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\favicon.ico",
-              "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\favicon.ico",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "RelativeToolTip": "PhishGuard\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2025-05-01T13:57:36.842Z",
-              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Upload\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Upload\\Index.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Upload\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Upload\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Upload\\Index.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Upload\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:56:40.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UploadController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\UploadController.cs",
-              "RelativeDocumentMoniker": "PhishGuard\\Controllers\\UploadController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\UploadController.cs",
-              "RelativeToolTip": "PhishGuard\\Controllers\\UploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:56:02.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "PhishGuard\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "PhishGuard\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:51:30.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:56:40.189Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "PhishGuard\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:56:02.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "PhishGuard\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "PhishGuard\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T13:51:30.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Thanks.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Contact\\Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Contact\\Thanks.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Contact\\Thanks.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Contact\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Contact\\Thanks.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Contact\\Thanks.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:15:05.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:15:05.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:17:12.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:17:12.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-01T14:59:53.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Signup.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Signup.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Signup.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Signup.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Signup.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:57:38.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "History.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\History.cshtml",
-              "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\History.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\History.cshtml",
-              "RelativeToolTip": "PhishGuard\\Views\\Pages\\History.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:54:37.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T14:57:38.64Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\History.cshtml",
+              "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\History.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\History.cshtml",
+              "RelativeToolTip": "PhishGuard\\Views\\Pages\\History.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T14:54:37.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Login.cshtml",
+              "RelativeToolTip": "PhishGuard\\Views\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T14:56:02.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhishGuard\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAWwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:24:02.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PagesController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\PagesController.cs",
               "RelativeDocumentMoniker": "PhishGuard\\Controllers\\PagesController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\PagesController.cs",
               "RelativeToolTip": "PhishGuard\\Controllers\\PagesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,76 +270,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Contact\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Contact\\Create.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Contact\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Contact\\Create.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Contact\\Create.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Contact\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T13:14:43.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:14:43.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\About.cshtml",
+              "RelativeToolTip": "PhishGuard\\Views\\Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T14:48:01.288Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\About.cshtml",
-              "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\About.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\About.cshtml",
-              "RelativeToolTip": "PhishGuard\\Views\\Pages\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:48:01.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Help.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Help.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Help.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Help.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Help.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Help.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Help.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:53:54.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T14:53:54.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Login.cshtml*",
-              "RelativeToolTip": "PhishGuard\\Views\\Pages\\Login.cshtml*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:56:02.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Resources.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Resources.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Resources.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Resources.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Pages\\Resources.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Pages\\Resources.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Resources.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:56:51.406Z",
+              "WhenOpened": "2025-05-01T14:56:51.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "PhishGuard\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:08:26.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "PhishGuard\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-05-01T13:57:36.842Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "qsqnespz.k0s.jpg - Bitmap [666x1059, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\uploads\\qsqnespz.k0s.jpg",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\uploads\\qsqnespz.k0s.jpg",
               "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\uploads\\qsqnespz.k0s.jpg",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\uploads\\qsqnespz.k0s.jpg - Bitmap [666x1059, 24 bit, JPG]",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\uploads\\qsqnespz.k0s.jpg - Bitmap [666x1059, 24 bit, JPG]",
               "RelativeToolTip": "PhishGuard\\wwwroot\\uploads\\qsqnespz.k0s.jpg - Bitmap [666x1059, 24 bit, JPG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2025-05-01T13:59:22.843Z",
@@ -336,172 +355,147 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Scan\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Scan\\Edit.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Scan\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Views\\Scan\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Views\\Scan\\Edit.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Scan\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T15:32:13.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T15:32:13.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ScanController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\ScanController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\ScanController.cs",
               "RelativeDocumentMoniker": "PhishGuard\\Controllers\\ScanController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\ScanController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Controllers\\ScanController.cs",
               "RelativeToolTip": "PhishGuard\\Controllers\\ScanController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T15:19:31.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T15:19:31.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Style.css",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\css\\Style.css",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\css\\Style.css",
               "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\css\\Style.css",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\css\\Style.css",
               "RelativeToolTip": "PhishGuard\\wwwroot\\css\\Style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAPsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-01T14:21:24.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Scan.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Models\\Scan.cs",
-              "RelativeDocumentMoniker": "PhishGuard\\Models\\Scan.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Models\\Scan.cs",
-              "RelativeToolTip": "PhishGuard\\Models\\Scan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T15:18:08.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20250501151855_AddScan.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Migrations\\20250501151855_AddScan.cs",
-              "RelativeDocumentMoniker": "PhishGuard\\Migrations\\20250501151855_AddScan.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Migrations\\20250501151855_AddScan.cs",
-              "RelativeToolTip": "PhishGuard\\Migrations\\20250501151855_AddScan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T15:18:55.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Script.js",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\js\\Script.js",
-              "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\js\\Script.js",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\wwwroot\\js\\Script.js",
-              "RelativeToolTip": "PhishGuard\\wwwroot\\js\\Script.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-01T14:22:49.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SiteDB.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Data\\SiteDB.cs",
-              "RelativeDocumentMoniker": "PhishGuard\\Data\\SiteDB.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Data\\SiteDB.cs",
-              "RelativeToolTip": "PhishGuard\\Data\\SiteDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:29:04.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T14:21:24.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "PhishGuard\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Models\\Contact.cs",
-              "RelativeToolTip": "PhishGuard\\Models\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "Scan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Models\\Scan.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Models\\Scan.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Models\\Scan.cs",
+              "RelativeToolTip": "PhishGuard\\Models\\Scan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:22:49.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T15:18:08.119Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
+              "Title": "20250501151855_AddScan.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Migrations\\20250501151855_AddScan.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Migrations\\20250501151855_AddScan.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Migrations\\20250501151855_AddScan.cs",
+              "RelativeToolTip": "PhishGuard\\Migrations\\20250501151855_AddScan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T15:18:55.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Script.js",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\js\\Script.js",
+              "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\js\\Script.js",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\wwwroot\\js\\Script.js",
+              "RelativeToolTip": "PhishGuard\\wwwroot\\js\\Script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-01T14:22:49.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SiteDB.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Data\\SiteDB.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Data\\SiteDB.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Data\\SiteDB.cs",
+              "RelativeToolTip": "PhishGuard\\Data\\SiteDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:29:04.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "PhishGuard\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Models\\Contact.cs",
+              "RelativeToolTip": "PhishGuard\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:22:49.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "20250501134213_Init.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Migrations\\20250501134213_Init.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Migrations\\20250501134213_Init.cs",
               "RelativeDocumentMoniker": "PhishGuard\\Migrations\\20250501134213_Init.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Migrations\\20250501134213_Init.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Migrations\\20250501134213_Init.cs",
               "RelativeToolTip": "PhishGuard\\Migrations\\20250501134213_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:42:14.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:42:14.306Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\appsettings.json",
               "RelativeDocumentMoniker": "PhishGuard\\appsettings.json",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\appsettings.json",
               "RelativeToolTip": "PhishGuard\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-01T13:30:55.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:30:55.143Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Program.cs",
               "RelativeDocumentMoniker": "PhishGuard\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Program.cs",
               "RelativeToolTip": "PhishGuard\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAACPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:29:25.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:29:25.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ContactViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Models\\ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Models\\ContactViewModel.cs",
               "RelativeDocumentMoniker": "PhishGuard\\Models\\ContactViewModel.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Models\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\Models\\ContactViewModel.cs",
               "RelativeToolTip": "PhishGuard\\Models\\ContactViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:10:51.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "PhishGuard\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "PhishGuard\\Controllers\\ContactController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T13:08:26.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-01T13:10:51.765Z"
             }
           ]
         }

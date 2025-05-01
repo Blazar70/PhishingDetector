@@ -4721,23 +4721,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\PhishGuard.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\PhishGuard.csproj",
       "projectName": "PhishGuard",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\PhishGuard.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\PhishGuard\\PhishGuard\\obj\\",
+      "projectPath": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\PhishGuard.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\University\\Web\\github\\PhishingDetector\\PhishGuard9\\PhishGuard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
