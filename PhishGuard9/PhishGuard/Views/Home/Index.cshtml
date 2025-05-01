@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+@section Scripts {
+    <script src="~/js/Script.js"></script>
+}
+<body>
+    <header>
+        <a asp-controller="Home" asp-action="Index" class="text-decoration-none">
+            <h1 class="m-0 text-white">PhishGuard</h1>
+        </a>
+        <nav>
+            <div class="dropdown">
+                <button class="menu-button">Menu</button>
+                <div class="dropdown-content">
+                    <a asp-controller="Home" asp-action="Index">Home</a>
+                    <a asp-controller="Pages" asp-action="About">About</a>
+                    <a asp-controller="Pages" asp-action="Help">Help</a>
+                    <a asp-controller="Pages" asp-action="Resources">Cybersecurity Resources</a>
+                    <a asp-controller="Pages" asp-action="History">History</a>
+                    <a asp-controller="Upload" asp-action="Index">Upload</a>
+                </div>
+            </div>
+            <a asp-controller="Pages" asp-action="Login"
+               class="login-button btn-primary">Login</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Welcome to PhishGuard</h2>
+        <p>Paste a link or email content below to check if it might be a phishing attempt.</p>
+
+        <form asp-controller="Scan" asp-action="Create" method="post" class="mb-3">
+            <input name="text" type="text" placeholder="Enter URL or email text here" class="form-control" />
+            <button type="submit" class="btn btn-primary mt-2">Scan</button>
+        </form>
+
+        <img id="project-image"
+             src="https://static.vecteezy.com/system/resources/previews/047/848/734/non_2x/scan-button-icon-linear-graphics-sign-vector.jpg"
+             alt="Banner" />
+
+        <p id="dynamic-text">Click the image to activate the scanner!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 PhishGuard | Stay Safe Online</p>
+    </footer>
+</body>

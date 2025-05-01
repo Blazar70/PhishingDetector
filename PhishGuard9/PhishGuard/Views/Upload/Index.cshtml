@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Upload";
+
+    var dir = System.IO.Path.Combine(
+                   Directory.GetCurrentDirectory(), "wwwroot", "uploads");
+
+    var list = System.IO.Directory.Exists(dir)
+               ? System.IO.Directory.GetFiles(dir)
+                     .Select(f => System.IO.Path.GetFileName(f))
+               : Enumerable.Empty<string>();
+}
+
+<h2>Upload a file</h2>
+
+<form asp-action="Save" method="post" enctype="multipart/form-data" class="mb-3">
+    <input type="file" name="file" class="form-control" />
+    <button type="submit" class="btn btn-primary mt-2">Upload</button>
+</form>
+
+@if (TempData["Msg"] != null)
+{
+    <div class="alert alert-success">@TempData["Msg"]</div>
+}
+
+@if (list.Any())
+{
+    <table class="table mt-4">
+        <thead><tr><th>Name</th><th></th></tr></thead>
+        <tbody>
+            @foreach (var f in list)
+            {
+                <tr>
+                    <td>@f</td>
+                    <td>
+                        <form asp-action="Delete" asp-route-name="@f" method="post" style="display:inline">
+                            <button class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Resources";
+}
+@section Scripts {
+    <script src="~/js/Script.js"></script>
+}
+<body>
+    <header>
+        <a asp-controller="Home" asp-action="Index" class="text-decoration-none">
+            <h1 class="m-0 text-white">PhishGuard</h1>
+        </a>
+        <nav>
+            <div class="dropdown">
+                <button class="menu-button">Menu</button>
+                <div class="dropdown-content">
+                    <a asp-controller="Home" asp-action="Index">Home</a>
+                    <a asp-controller="Pages" asp-action="About">About</a>
+                    <a asp-controller="Pages" asp-action="Help">Help</a>
+                    <a asp-controller="Pages" asp-action="Resources">Cybersecurity Resources</a>
+                    <a asp-controller="Pages" asp-action="History">History</a>
+                    <a asp-controller="Upload" asp-action="Index">Upload</a>
+                </div>
+            </div>
+            <a asp-controller="Pages" asp-action="Login"
+               class="login-button btn-primary">Login</a>
+        </nav>
+    </header>
+
+
+    <section>
+        <h2>Trusted Cybersecurity Organizations</h2>
+        <ul>
+            <li>
+                <a href="https://www.cisa.gov/" target="_blank">
+                    Cybersecurity & Infrastructure Security Agency
+                    (CISA)
+                </a>
+            </li>
+            <li><a href="https://staysafeonline.org/" target="_blank">National Cybersecurity Alliance</a></li>
+            <li><a href="https://www.consumer.ftc.gov/" target="_blank">FTC Consumer Information on Phishing</a></li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Tools for Checking Suspicious Links</h2>
+        <ul>
+            <li><a href="https://www.virustotal.com/" target="_blank">VirusTotal - Scan URLs for Malware</a></li>
+            <li>
+                <a href="https://transparencyreport.google.com/safe-browsing/search" target="_blank">
+                    Google Safe
+                    Browsing
+                </a>
+            </li>
+            <li>
+                <a href="https://www.phishtank.com/" target="_blank">PhishTank - Community-Based Phishing Detection</a>
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Best Practices for Online Safety</h2>
+        <p>Visit these resources to learn how to stay safe online:</p>
+        <ul>
+            <li><a href="https://www.cyberaware.gov/" target="_blank">Cyber Aware - UK Government</a></li>
+            <li>
+                <a href="https://us.norton.com/internetsecurity-how-to-avoid-phishing-scams.html" target="_blank">
+                    Norton
+                    Guide to Avoiding Phishing Scams
+                </a>
+            </li>
+            <li>
+                <a href="https://www.kaspersky.com/resource-center/threats/phishing" target="_blank">
+                    Kaspersky's Guide
+                    to Phishing
+                </a>
+            </li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 PhishGuard | Stay Safe Online</p>
+    </footer>
+</body>

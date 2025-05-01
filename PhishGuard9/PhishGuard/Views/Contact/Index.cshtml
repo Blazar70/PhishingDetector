@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Contact>
+@{
+    ViewData["Title"] = "Messages";
+}
+
+<h2>Messages</h2>
+
+<table class="table">
+    <thead>
+        <tr><th>Name</th><th>Email</th><th>Date</th><th>Message</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var c in Model)
+        {
+            <tr>
+                <td>@c.Name</td>
+                <td>@c.Email</td>
+                <td>@c.SentAt.ToShortDateString()</td>
+                <td>@c.Message</td>
+            </tr>
+        }
+    </tbody>
+</table>
