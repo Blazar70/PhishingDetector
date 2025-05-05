@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "About";
+}
+@{
+    var user = Context.Request.Cookies["userName"];
+}
+@section Scripts {
+    <script src="~/js/Script.js"></script>
+}
+<img src="~/img/phishimage.png" id="phish-image" alt="Phish Image" />
+
+<body>
+    <header>
+        <a asp-controller="Home" asp-action="Index" class="text-decoration-none">
+            <h1 class="m-0 text-white">PhishGuard</h1>
+        </a>
+
+        @if (!string.IsNullOrEmpty(user))
+        {
+            <span style="margin-left:1rem;color:white;font-size:1.2rem;">
+                Welcome, @user!
+            </span>
+        }
+        <nav>
+            <div class="dropdown">
+                <button class="menu-button">Menu</button>
+                <div class="dropdown-content">
+                    <a asp-controller="Home" asp-action="Index">Home</a>
+                    <a asp-controller="Pages" asp-action="About">About</a>
+                    <a asp-controller="Pages" asp-action="Help">Help</a>
+                    <a asp-controller="Pages" asp-action="Resources">Cybersecurity Resources</a>
+                    <a asp-controller="Pages" asp-action="History">History</a>
+                    <a asp-controller="Upload" asp-action="Index">Upload</a>
+                </div>
+            </div>
+            <a asp-controller="Pages" asp-action="Login"
+               class="login-button btn-primary">Login</a>
+            <a asp-controller="Pages" asp-action="Logout"
+               class="login-button btn-danger">Logout</a>
+        </nav>
+    </header>
+
+
+    <section>
+        <h2>What is PhishGuard?</h2>
+        @if (!string.IsNullOrEmpty(user))
+        {
+            <span class="text-white ms-3">Welcome, @user</span>
+        }
+        <p>
+            PhishGuard is a tool designed to help users identify potential phishing attempts by analyzing links
+            and email content.
+        </p>
+    </section>
+
+    <section>
+        <h2>How It Works</h2>
+        <p>
+            Using a machine learning-based model, PhishGuard scans URLs and messages to detect common phishing
+            patterns.
+        </p>
+    </section>
+
+    <section>
+        <h2>Why Use PhishGuard?</h2>
+        <ul>
+            <li>Helps protect against online scams and fraudulent links.</li>
+            <li>Uses an advanced detection model trained on real-world phishing data.</li>
+            <li>Provides an easy-to-use interface for both tech-savvy and non-expert users.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 PhishGuard | Stay Safe Online</p>
+    </footer>
+</body>
