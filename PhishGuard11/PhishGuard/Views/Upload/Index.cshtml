@@ -10,6 +10,9 @@
 }
 
 @await Html.PartialAsync("_HeaderImage")
+<a asp-controller="Pages" asp-action="Help">
+    <img src="~/img/phishimage.png" id="phish-image" alt="Phish Image" />
+</a>
 
 <header>
     <a asp-controller="Home" asp-action="Index" class="text-decoration-none">

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\resources.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -23,8 +23,8 @@
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\shared\\_headerimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\shared\\_headerimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\pages\\help.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,16 +35,16 @@
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\shared\\_headerimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\shared\\_headerimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|solutionrelative:phishguard\\views\\upload\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4F345A6-FFE9-4219-B163-1DC9FC64C58C}|PhishGuard\\PhishGuard.csproj|c:\\users\\asus\\desktop\\coding syntax \u0026 info\\phishingdetector\\phishguard11\\phishguard\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -138,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -166,15 +166,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Signup.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\Signup.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Signup.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\Signup.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Signup.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:57:38.64Z"
+              "WhenOpened": "2025-05-01T14:57:38.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -190,15 +191,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Upload\\Index.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Upload\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Upload\\Index.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Upload\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-05T15:20:41.749Z"
+              "WhenOpened": "2025-05-05T15:20:41.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,9 +210,10 @@
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\About.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\About.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:48:01.288Z"
+              "WhenOpened": "2025-05-01T14:48:01.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -220,26 +223,27 @@
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\History.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\History.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\History.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:54:37.202Z"
+              "WhenOpened": "2025-05-01T14:54:37.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-01T14:59:53.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_HeaderImage.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Shared\\_HeaderImage.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Shared\\_HeaderImage.cshtml",
@@ -257,21 +261,23 @@
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Login.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\Login.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:56:02.902Z"
+              "WhenOpened": "2025-05-01T14:56:02.902Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Resources.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\Resources.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Resources.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\Resources.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Resources.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:56:51.406Z"
+              "WhenOpened": "2025-05-01T14:56:51.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -281,13 +287,14 @@
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Pages\\Help.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Pages\\Help.cshtml",
               "RelativeToolTip": "PhishGuard\\Views\\Pages\\Help.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:53:54.359Z"
+              "WhenOpened": "2025-05-01T14:53:54.359Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Style.css",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\wwwroot\\css\\Style.css",
               "RelativeDocumentMoniker": "PhishGuard\\wwwroot\\css\\Style.css",
@@ -311,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Coding Syntax \u0026 Info\\PhishingDetector\\PhishGuard11\\PhishGuard\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PhishGuard\\Views\\Shared\\_Layout.cshtml",

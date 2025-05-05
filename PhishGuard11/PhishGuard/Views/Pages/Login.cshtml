@@ -7,7 +7,9 @@
 @{
     var user = Context.Request.Cookies["userName"];
 }
-<img src="~/img/phishimage.png" id="phish-image" alt="Phish Image" />
+<a asp-controller="Pages" asp-action="Help">
+    <img src="~/img/phishimage.png" id="phish-image" alt="Phish Image" />
+</a>
 <body>
     <header>
         <a asp-controller="Home" asp-action="Index" class="text-decoration-none">
