@@ -10,6 +10,8 @@ public class PagesController : Controller
     public IActionResult Help() => View();
     public IActionResult Resources() => View();
     public IActionResult Login() => View();
+    public IActionResult Contact() => View();
+
 
     [HttpPost]
     public IActionResult Login(string user)
